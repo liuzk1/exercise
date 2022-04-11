@@ -1,1 +1,3 @@
 I'd like to exercise in this file.
+
+Git is useful.
