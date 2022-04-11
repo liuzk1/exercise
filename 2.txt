@@ -2,6 +2,6 @@ I'd like to learn Git.
 
 really.
 
-Git is fun.
-
 I like it.
+
+It's helpful.
