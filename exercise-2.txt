@@ -1,0 +1,3 @@
+I like git.
+
+Git is fun.
