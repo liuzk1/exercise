@@ -1,3 +1,5 @@
 I'm learning Git.
 
 I'd like to learn Git.
+
+Git is useful.
